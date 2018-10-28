@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PoolPal2018.iml" filepath="$PROJECT_DIR$/PoolPal2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/externalStorageLibrary/externalStorageLibrary.iml" filepath="$PROJECT_DIR$/externalStorageLibrary/externalStorageLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poolpal/poolpal.iml" filepath="$PROJECT_DIR$/poolpal/poolpal.iml" />
+    </modules>
+  </component>
+</project>
